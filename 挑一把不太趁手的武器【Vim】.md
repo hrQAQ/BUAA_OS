@@ -40,7 +40,7 @@ Vim是编辑器之神，熟练Vim的码农可以在神的指引下化身触手�
 
  在home/git目录下创建.vimrc文件 然后当一个CV工程师就好了
 
-![image-20220312122551391](C:/Users/14947.LAPTOP-M038335P/AppData/Roaming/Typora/typora-user-images/image-20220312122551391.png)
+![](./pic_挑一把不太趁手的武器【Vim】/image2.png)
 
 ```c
 " ctag
@@ -93,9 +93,9 @@ set wildmode=list:longest
 
   可以帮助完成下面的题目（虽然用num+hjkl也可以）
 
-  ![image-20220312120141353](C:/Users/14947.LAPTOP-M038335P/AppData/Roaming/Typora/typora-user-images/image-20220312120141353.png)
+  ![](./pic_挑一把不太趁手的武器【Vim】/image3.png)
 
-  ![image-20220312120304482](C:/Users/14947.LAPTOP-M038335P/AppData/Roaming/Typora/typora-user-images/image-20220312120304482.png)
+  ![](./pic_挑一把不太趁手的武器【Vim】/image1.png)
 
 - `shift`+`a`可以快速移动到行末，并且进入append模式，一般我在定位后用这个进入编辑模式
 
